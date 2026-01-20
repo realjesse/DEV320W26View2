@@ -127,3 +127,35 @@ body {
 .rounded-15 {
   border-radius: 15px;
 }
+
+.center-text {
+  text-align: center;
+}
+
+.top-margin-1rem {
+  margin-top: 1rem;
+}
+
+.bottom-margin-3rem {
+  margin-bottom: 3rem;
+}
+
+.bottom-margin-1rem {
+  margin-bottom: 1rem;
+}
+
+.bottom-padding-1rem {
+  padding-bottom: 1rem;
+}
+
+.bottom-padding-2rem {
+  padding-bottom: 2rem;
+}
+
+.left-margin-3rem {
+  margin-left: 3rem;
+}
+
+.grey-bottom-border {
+  border-bottom: grey solid 1px;
+}
